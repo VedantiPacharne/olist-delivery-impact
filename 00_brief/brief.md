@@ -5,3 +5,14 @@
 3. Why it matters : Late deliveries may lead to lower review scores and reduce customers' willingness to purchase again.
 
 4. What decision this analysis supports? : This analysis will help Olist identify where delivery problems occur and decide which sellers, locations, or delivery processes need improvement.
+
+
+## Stakeholders
+
+1. **Head of Operations:** Needs to identify where deliveries are failing, which locations experience the highest delays, and where operational improvements are required.
+
+2. **Seller Success Manager:** Needs to identify sellers with frequent delivery delays and poor customer reviews to determine which sellers require intervention.
+
+3. **Customer Experience (CX) Lead:** Needs to understand customer complaints, identify reasons for dissatisfaction, and measure how late deliveries affect review scores.
+
+4. **Finance / Growth Team:** Needs to understand whether late deliveries affect repeat purchases, customer retention, and long-term business growth.
