@@ -16,3 +16,6 @@
 3. **Customer Experience (CX) Lead:** Needs to understand customer complaints, identify reasons for dissatisfaction, and measure how late deliveries affect review scores.
 
 4. **Finance / Growth Team:** Needs to understand whether late deliveries affect repeat purchases, customer retention, and long-term business growth.
+
+## Business Questions
+1. **What share of delivered orders arrive after the promised date?**
