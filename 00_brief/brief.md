@@ -18,4 +18,9 @@
 4. **Finance / Growth Team:** Needs to understand whether late deliveries affect repeat purchases, customer retention, and long-term business growth.
 
 ## Business Questions
-1. **What share of delivered orders arrive after the promised date?**
+a.	**What share of delivered orders arrive after the promised date?**
+b.	**How much lower are review scores when delivery is late, and does the gap grow with delay length?**
+c.	**Which sellers and customer states have the worst late rates?**
+d.	**Do customers whose first order was late come back less?**
+e.	**What do unhappy customers actually complain about?**
+
