@@ -85,3 +85,12 @@ e.	**What do unhappy customers actually complain about?**
   - olist_orders_dataset.csv
   - olist_customers_dataset.csv
 
+
+## User stories for the dashboard
+•	DO: Write these 5 and keep them, because the dashboard will be built against them.
+f.	As an Ops head, I want late % by month and state, so I can spot trends.
+g.	As a Seller Success manager, I want a ranked list of sellers by late %, so I can pick who to call first.
+h.	As a CX lead, I want complaint themes, so I can see what's driving bad reviews.
+i.	As an executive, I want 4 headline KPIs on one page.
+j.	As an analyst, I want to filter by date, state and delay bucket.
+
