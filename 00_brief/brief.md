@@ -28,7 +28,7 @@ d.	**Do customers whose first order was late come back less?**
 
 e.	**What do unhappy customers actually complain about?**
 
-Step 1.4: KPI Definitions
+## KPI Definitions
 1. Late Order
 - Definition: An order is late if its actual delivery date is later than its estimated delivery date.
 - Formula:
